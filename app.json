@@ -1,17 +1,8 @@
 {
-  "name": "heroku",
-  "scripts": {
-  },
-  "env": {
-  },
-  "formation": {
-  },
-  "addons": [
-
-  ],
-  "buildpacks": [
-    {
-      "url": "https://github.com/mars/create-react-app-buildpack.git"
-    }
-  ]
+	"name": "heroku",
+	"scripts": {},
+	"env": {},
+	"formation": {},
+	"addons": [],
+	"buildpacks": [{}]
 }
